@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "printk.h": "c",
+        "gpio.h": "c",
+        "sensor.h": "c",
+        "stdio.h": "c",
+        "kernel.h": "c",
+        "i2c.h": "c"
+    }
+}

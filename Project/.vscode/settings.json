@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "led.h": "c",
+        "printk.h": "c",
+        "sensor.h": "c",
+        "device.h": "c",
+        "cmath": "c",
+        "*.tcc": "c"
+    }
+}
